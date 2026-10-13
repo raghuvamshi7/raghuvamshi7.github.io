@@ -1,0 +1,8 @@
+:root { color-scheme: light dark; font-family: system-ui, sans-serif; line-height: 1.55; }
+body { margin: 0; padding: 2rem 1rem; }
+main { max-width: 42rem; margin: 0 auto; }
+h1 { line-height: 1.2; }
+h2 { margin-top: 2rem; font-size: 1.15rem; }
+nav { display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #8886; }
+a { text-underline-offset: 0.2em; }
+a:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
